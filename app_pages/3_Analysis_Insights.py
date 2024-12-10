@@ -44,7 +44,6 @@ def plot_network_graph(rules, title="Association Rules Network"):
 df = st.session_state["df"]
 
 # Header
-st.title("Interactive Market Basket Analysis")
 st.write("""
 This section provides interactive visualizations of association rules, highlights key insights, and allows users to explore patterns and trends dynamically.
 """)
