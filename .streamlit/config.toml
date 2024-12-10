@@ -1,9 +1,8 @@
 # .streamlit/config.toml
 
 [theme]
-base="dark"  # Default to dark mode. You can set it to "light" if you prefer light mode by default.
-primaryColor="#F71938"  # Adjust this to your preferred primary color
-backgroundColor="#2E2E2E"  # Dark mode background
-secondaryBackgroundColor="#373737"  # Dark mode container background
-textColor="#FFFFFF"  # Text color for dark mode
-
+base="light"  # Change to light mode
+primaryColor="#4CAF50"  # Soft green for buttons and highlights
+backgroundColor="#F9F9F9"  # Light background for the app
+secondaryBackgroundColor="#FFFFFF"  # Slightly darker background for containers
+textColor="#333333"  # Dark gray for text to reduce harshness on eyes
