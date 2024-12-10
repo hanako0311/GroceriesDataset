@@ -1,0 +1,9 @@
+# .streamlit/config.toml
+
+[theme]
+base="dark"  # Default to dark mode. You can set it to "light" if you prefer light mode by default.
+primaryColor="#F71938"  # Adjust this to your preferred primary color
+backgroundColor="#2E2E2E"  # Dark mode background
+secondaryBackgroundColor="#373737"  # Dark mode container background
+textColor="#FFFFFF"  # Text color for dark mode
+

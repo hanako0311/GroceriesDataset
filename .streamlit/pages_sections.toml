@@ -1,0 +1,33 @@
+# First section for the main introduction page
+
+# Main menu section
+[[pages]]
+name = "Main menu"
+icon = ""
+is_section = true
+
+# Introduction section
+
+[[pages]]
+path = "app_pages/1_Overview.py"
+name = "Overview"
+icon = "🛒"
+
+[[pages]]
+path = "app_pages/2_Data_Exploration_Preparation.py"
+name = "Data Exploration and Preparation"
+icon = "📈"
+
+# Visualizations section
+
+[[pages]]
+path = "app_pages/3_Analysis_Insights.py"
+name = "Groceries Dataset Analysis and Insights"
+icon = "📊"
+
+# Conclusions section
+
+[[pages]]
+path = "app_pages/4_Conclusions_Recommendations.py"
+name = "Conclusions and Recommendations"
+icon = "📝"
